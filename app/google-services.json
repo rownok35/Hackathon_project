@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "720715606252",
+    "firebase_url": "https://chatbot-watson-android-m-87b7f.firebaseio.com",
+    "project_id": "chatbot-watson-android-m-87b7f",
+    "storage_bucket": "chatbot-watson-android-m-87b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720715606252:android:8e28c8bd5e76fbcb555dc9",
+        "android_client_info": {
+          "package_name": "com.example.vmac.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720715606252-3s8lgjo81olm7s4aftpntjedr1edu141.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vmac.chatbot",
+            "certificate_hash": "364db542ea0e6f45247e534adbb02b39d2766d46"
+          }
+        },
+        {
+          "client_id": "720715606252-0odv0eg63cvve8r1rq77i8ep5q9imd8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoqGdSXGkuKJB0pRNW9MBcKej-cliV8u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720715606252-0odv0eg63cvve8r1rq77i8ep5q9imd8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
